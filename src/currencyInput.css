@@ -1,0 +1,18 @@
+.group{
+    margin: 21px auto -2px;
+    display: flex;
+    -ms-flex-align: center;
+
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.input{
+
+}
+.select{
+    margin-left: 20px;
+    color: #eef;
+}

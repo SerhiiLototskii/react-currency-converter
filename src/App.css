@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-image: url(../src/img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+}
+h1{
+    color: #eef;
+    text-align: center;
+}
+.header{
+color: #eef;
+    display: flex;
+    justify-content: center;
+}
+.headerItem{
+    margin-right: 100px;
+    padding-bottom: 20px;
+}
